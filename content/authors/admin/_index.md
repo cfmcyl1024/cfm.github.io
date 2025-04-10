@@ -162,4 +162,4 @@ education:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Fu-min Cai is currently pursuing his Ph.D. in Computer Science at Beihang University, where his research is focused on computer vision and image processing. He received his Bachelor's degree from Beihang University in 2024, a period during which he built a strong foundation in computer science and engineering while also cultivating a rigorous research mindset. His doctoral work explores innovative algorithms and techniques for visual data analysis, aiming to advance both theoretical insights and practical applications in the field of artificial intelligence.
